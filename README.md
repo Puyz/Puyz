@@ -1,39 +1,107 @@
-<h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">Full Stack .NET Engineer</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omer-temel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer-temel-284a85236" height="30" width="40" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%C3%96mer%20Temel"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://react.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
-  
-   </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Full+Stack+.NET+Engineer;Enterprise+%26+Distributed+Systems+Architecture;Microservices+%7C+API+Gateway+%7C+Messaging;DDD+%7C+CQRS+%7C+Event+Sourcing;React+Frontend+Engineering" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puyz&show_icons=true&locale=en&layout=compact" alt="puyz" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puyz&show_icons=true&locale=en" alt="puyz" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puyz&" alt="puyz" /></p>
+## Professional Summary
+
+I am a **Full Stack .NET Engineer** focused on designing, evolving, and operating
+**enterprise-scale distributed systems**.
+
+My expertise goes beyond layered architectures such as **N-Tier**, **Onion**, and **Clean Architecture**.
+I actively design and build **microservice-based systems** incorporating **API Gateways**, **asynchronous messaging**,
+and **service-to-service communication** patterns.
+
+I apply **Domain-Driven Design (DDD)** to model complex business domains and use
+**CQRS**, **Event Sourcing**, and **event-driven architectures** where scalability,
+auditability, and consistency boundaries are critical.
+
+On the frontend, I build **React-based applications** with an architectural mindset,
+ensuring frontend systems remain predictable, maintainable, and aligned with backend domains.
+
+---
+
+## Engineering Philosophy
+
+- Architecture is a long-term business decision, not a framework choice
+- Clear boundaries are more valuable than clever abstractions
+- Distributed systems must be observable, resilient, and failure-aware
+- Consistency is a strategy, not a default
+- Code should explain the system, not hide it
+
+---
+
+## Architectural Scope
+
+- Microservices and modular monoliths
+- API Gateway patterns (routing, auth, cross-cutting concerns)
+- Domain-Driven Design (bounded contexts, aggregates, invariants)
+- CQRS with task-based and event-based flows
+- Event Sourcing for critical domains
+- N-Tier / Onion / Clean Architecture as internal service structure
+- Dependency inversion and contract-first design
+
+---
+
+## Distributed Systems & Messaging
+
+- RabbitMQ-based messaging and pub/sub
+- Event-driven and message-driven architectures
+- Saga pattern (Orchestration & Choreography)
+- Outbox / Inbox pattern
+- Eventual consistency vs strong consistency trade-offs
+- Correlation ID, traceability, and observability
+- Background workers and async processing pipelines
+
+---
+
+## Backend Engineering
+
+- ASP.NET Core / .NET
+- API Gateway design
+- Authentication & Authorization
+- Secure credential handling
+- RESTful APIs and gRPC / RPC-style communication
+- Redis caching, pub/sub, and distributed locks
+- Transaction management in distributed environments
+
+---
+
+## Frontend Engineering
+
+- React-based SPA development
+- Redux and predictable state management
+- Component-driven UI architecture
+- Backend-aligned frontend contracts
+
+---
+
+## Data & Persistence
+
+- Microsoft SQL Server
+- PostgreSQL
+- MySQL
+- Redis
+- Relational data modeling
+- Event stores and append-only persistence
+- Performance-aware data access strategies
+
+---
+
+## Professional Contact
+
+<div align="center">
+
+<a href="https://linkedin.com/in/omer-temel" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ömer%20Temel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+
+
