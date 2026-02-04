@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%C3%96mer%20Temel"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&fontColor=ddd&text=%C3%96mer%20Temel"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Full+Stack+.NET+Engineer;Enterprise+%26+Distributed+Systems+Architecture;Microservices+%7C+API+Gateway+%7C+Messaging;DDD+%7C+CQRS+%7C+Event+Sourcing;React+Frontend+Engineering" />
 
