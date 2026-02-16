@@ -98,7 +98,11 @@ ensuring frontend systems remain predictable, maintainable, and aligned with bac
 <div align="center">
 
 <a href="https://linkedin.com/in/omer-temel" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Ömer%20Temel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Ömer%20Temel-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="mailto:omer@crypass.com" target="_blank">
+  <img src="https://img.shields.io/badge/Mail-Ömer%20Temel-D6473D?style=for-the-badge"/>
 </a>
 
 </div>
